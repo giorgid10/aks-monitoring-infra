@@ -1,2 +1,2 @@
 # aks-monitoring-infra
- DevOps implementation for a hybrid Azure + Kubernetes monitoring system.
+This repository contains a reference DevOps implementation for a hybrid monitoring platform running on Azure and Kubernetes, including Infrastructure as Code, CI/CD, observability, networking, and cost optimization practices. It demonstrates my experience with Terraform/Bicep, GitHub Actions and Azure DevOps, AKS/on‑prem clusters, secure networking, and SOC 2–aligned controls.
